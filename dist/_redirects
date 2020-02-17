@@ -1,0 +1,3 @@
+/google https://google.com
+/api/* https://jsonplaceholder.typicode.com/:splat 200
+/getWord /.netlify/functions/getWord/getWord.js 200
